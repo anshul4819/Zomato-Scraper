@@ -1,1 +1,5 @@
 env
+venv
+htmls/*.html
+jsons/*.json
+*.csv
